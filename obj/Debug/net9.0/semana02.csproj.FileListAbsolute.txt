@@ -1,0 +1,14 @@
+C:\Users\Edison\Desktop\Proyectos VSC\semana02\bin\Debug\net9.0\semana02.exe
+C:\Users\Edison\Desktop\Proyectos VSC\semana02\bin\Debug\net9.0\semana02.deps.json
+C:\Users\Edison\Desktop\Proyectos VSC\semana02\bin\Debug\net9.0\semana02.runtimeconfig.json
+C:\Users\Edison\Desktop\Proyectos VSC\semana02\bin\Debug\net9.0\semana02.dll
+C:\Users\Edison\Desktop\Proyectos VSC\semana02\bin\Debug\net9.0\semana02.pdb
+C:\Users\Edison\Desktop\Proyectos VSC\semana02\obj\Debug\net9.0\semana02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edison\Desktop\Proyectos VSC\semana02\obj\Debug\net9.0\semana02.AssemblyInfoInputs.cache
+C:\Users\Edison\Desktop\Proyectos VSC\semana02\obj\Debug\net9.0\semana02.AssemblyInfo.cs
+C:\Users\Edison\Desktop\Proyectos VSC\semana02\obj\Debug\net9.0\semana02.csproj.CoreCompileInputs.cache
+C:\Users\Edison\Desktop\Proyectos VSC\semana02\obj\Debug\net9.0\semana02.dll
+C:\Users\Edison\Desktop\Proyectos VSC\semana02\obj\Debug\net9.0\refint\semana02.dll
+C:\Users\Edison\Desktop\Proyectos VSC\semana02\obj\Debug\net9.0\semana02.pdb
+C:\Users\Edison\Desktop\Proyectos VSC\semana02\obj\Debug\net9.0\semana02.genruntimeconfig.cache
+C:\Users\Edison\Desktop\Proyectos VSC\semana02\obj\Debug\net9.0\ref\semana02.dll
