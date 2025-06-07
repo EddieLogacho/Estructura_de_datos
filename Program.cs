@@ -2,7 +2,7 @@
 
 namespace FigurasGeometricas
 {
-    // Clase que representa un Rectángulo
+    // Clase del un Rectángulo
     class Rectangulo
     {
         // Atributos privados
@@ -29,7 +29,7 @@ namespace FigurasGeometricas
         }
     }
 
-    // Clase que representa un Cuadrado
+    // Clase del Cuadrado
     class Cuadrado
     {
         // Atributo privado
@@ -54,7 +54,7 @@ namespace FigurasGeometricas
         }
     }
 
-    // Clase principal para probar las figuras
+    // Clase padre para probar las figuras
     class Program
     {
         static void Main(string[] args)
