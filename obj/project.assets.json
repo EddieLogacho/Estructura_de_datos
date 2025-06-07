@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Edison\\Desktop\\Proyectos VSC\\semana02\\semana02.csproj",
+      "projectUniqueName": "C:\\Users\\Edison\\Documents\\GitHub\\Estructura_de_datos\\semana02.csproj",
       "projectName": "semana02",
-      "projectPath": "C:\\Users\\Edison\\Desktop\\Proyectos VSC\\semana02\\semana02.csproj",
+      "projectPath": "C:\\Users\\Edison\\Documents\\GitHub\\Estructura_de_datos\\semana02.csproj",
       "packagesPath": "C:\\Users\\Edison\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Edison\\Desktop\\Proyectos VSC\\semana02\\obj\\",
+      "outputPath": "C:\\Users\\Edison\\Documents\\GitHub\\Estructura_de_datos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Edison\\AppData\\Roaming\\NuGet\\NuGet.Config"
